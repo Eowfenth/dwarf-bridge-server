@@ -1,0 +1,24 @@
+{
+  "name": "dwarf-bridge-server",
+  "version": "0.0.1",
+  "description": "Gathering Tibia statistics in the Dwarf Bridge ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eowfenth/dwarf-bridge-server.git"
+  },
+  "keywords": [
+    "statistics",
+    "tibia",
+    "typescript"
+  ],
+  "author": "Nícolas 'eowfenth' Deçordi dos Reis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eowfenth/dwarf-bridge-server/issues"
+  },
+  "homepage": "https://github.com/eowfenth/dwarf-bridge-server#readme"
+}
